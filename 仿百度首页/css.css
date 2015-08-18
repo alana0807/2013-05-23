@@ -1,0 +1,177 @@
+body {
+font-size:12px;
+font-family:Tahoma;
+margin:0px;
+text-align:center;
+background:rgb(240,240,240);
+} 
+#container {
+width:1325px;
+height:577px;
+}
+#header {
+float:left;
+width:1325px;
+height:29px;
+background:rgb(255,255,255);
+}
+	#weather{
+	width:233px;
+    height:29px;
+	float:left;
+    margin:0px;
+	}
+		#cityname{
+		float:left;
+		width:36px;
+		height:15px;
+		margin-left:10px;
+		margin-top:6px;
+        cursor:default;
+		}
+		#weather-img{
+		float:left;
+		width:22px;
+		height:22px;
+        margin-top:4px;
+		margin-left:1px;
+		cursor:pointer;
+		}
+		#weather-tem{
+		float:left;
+		width:55px;
+		height:15px;
+		margin-top:6px;
+		margin-left:5px;
+		cursor:pointer;
+		}
+		#weather-ll{
+		float:left;
+		width:3px;
+		height:15px;
+		margin:6px 9px 0 5px;
+        cursor:default;
+		}
+		#weather-pol{
+		float:left;
+		width:60px;
+		height:15px;
+		margin-top:6px;
+        cursor:default;
+		}
+		#weather-plogo{
+		float:left;
+		width:26px;
+		height:18px;
+		margin-top:3px;
+        padding-top:2px;
+		background:rgb(158,209,91);
+        cursor:default;
+		}
+	#login{
+	width:136px;
+    height:15px;
+    margin-top:4px;
+	float:right;
+	}
+#content {
+float:left;
+width:1325px;
+height:402px;
+margin-top:1px;
+background:rgb(255,255,255);
+}
+	#logo{
+    float:left;
+	width:1325px;
+	height:132px;
+	margin:0px auto;
+	}
+	#shop{
+    float:left;
+	width:1325px;
+    height:22px;
+	margin:0px auto;
+    font-size:14px;
+    padding-top:1px;
+    word-spacing:9px;
+    text-indent:-97px;
+	}
+	#search{
+    float:left;
+	width:1325px;
+    height:35px;
+	margin:0px auto;
+	}
+#footer {
+float:left;
+width:1325px;
+height:144px;
+margin-top:1px;
+background:rgb(252,252,252);
+}
+	#download{
+    float:left;
+	width:1325px;
+    height:25px;
+	margin:0px auto;
+    padding-top:23px;
+	}
+	#link{
+    float:left;
+	width:1325px;
+    height:24px;
+	margin:0px auto;
+	}
+	#copyright{
+    float:left;
+	width:1325px;
+    height:17px;
+	margin:0px auto;
+    color:rgb(102,102,102);
+	}
+	
+img.normal {
+width:auto
+}
+input.bdyx{
+margin:0px auto;
+padding:0px auto;
+height:26px;
+width:490px;
+}
+input.button{
+margin:0px auto;
+padding:0px auto;
+height:35px;
+width:95px;
+font-size:15px;
+}
+a.acolor{
+color:rgb(0,0,204);
+}
+a.bcolor{
+color:rgb(102,102,102);
+}
+a.ccolor{
+color:rgb(255,255,255);
+text-decoration:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
